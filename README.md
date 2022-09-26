@@ -1,6 +1,10 @@
 # Doctorcare
 Projeto de um site de Medicina.
 
+![preview](./github/preview.png)
+
+[Clique aqui para acessar](https://wilsonsantanajr.github.io/doctorcare/)
+
 ## Feito Com
 Abaixo segue o que foi utilizado na criação deste projeto:
 
