@@ -1,5 +1,5 @@
 # Doctorcare
-Projeto de um site de Medicina.
+Projeto da rocketseat nlw de um site de Medicina.
 
 ![preview](./github/preview.png)
 
